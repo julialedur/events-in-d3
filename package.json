@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --out-dir docs --public-url /homework-4"
+    "build": "parcel build src/index.html --out-dir docs --public-url /events-in-d3"
   },
   "jest": {
     "setupFiles": [
